@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="DriverScore" type="id">m</item>
+    <item name="Hard_Breaking" type="id">m</item>
+    <item name="Rapid_Accels" type="id">m</item>
+    <item name="Speeding" type="id">m</item>
+    <item name="Idle_Time" type="id">m</item>
+</resources>
